@@ -11,21 +11,21 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
+    "Are xoaif positive? 🤔",
     "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "If xoaif say no, I will be mat an mat ngu...",
+    "mat an mat ngu thiet dooo... 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "Oops, xoaif hits another button mat roaiii 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
+    "try saying no first... I bet xoaif want to know what happens 😏",
     "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "xoaif is missing out 😈",
+    "click no, me dare xoaifbotdam 😏"
 ]
 
 let yesTeasedCount = 0
